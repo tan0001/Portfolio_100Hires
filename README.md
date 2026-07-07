@@ -120,6 +120,10 @@ Portfolio Project
 
 | Claude Code login required paid plan | No paid subscription available; left authentication incomplete |
 
+
+**Topic Chosen: ** Newsletter/Email Marketing for B2B SaaS
+Reason for choosing this topic: I have experience in writing newsletters for brand value building as well as subtle marketing with a focus on the content, hence I have a practiced instinct to evaluate what might or might not work at capturing the audience.
+
 | Codex extension not found in Cursor's marketplace | Installed CLI directly via npm instead |
 
 | Codex authentication required billing | Used OpenAI API key |
